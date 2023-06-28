@@ -24,7 +24,7 @@
 /* Begin PBXFileReference section */
 		19E5B4B01E0CD9E1002036AC /* ArtistTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtistTableViewCell.swift; sourceTree = "<group>"; };
 		19E5B4B21E0CE3B9002036AC /* WorkTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WorkTableViewCell.swift; sourceTree = "<group>"; };
-		552DF98A2A4C0E2F006151A2 /* Artistry.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Artistry.app; path = "/Users/hadisehsafaei/Desktop/ArtistryMaProject/ArtistryMa/build/Debug-iphoneos/Artistry.app"; sourceTree = "<absolute>"; };
+		29985D252A4C165C00CB3252 /* Artistry.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Artistry.app; path = "/Users/bankino/Desktop/ArtistryMaProject/ArtistryMa/build/Debug-iphoneos/Artistry.app"; sourceTree = "<absolute>"; };
 		A23F75341C9BA757006FA46F /* ArtistDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtistDetailViewController.swift; sourceTree = "<group>"; };
 		A23F75361C9BADB7006FA46F /* Work.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Work.swift; sourceTree = "<group>"; };
 		A23F753A1C9BC89A006FA46F /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -129,7 +129,7 @@
 				552DF98C2A4C0E7C006151A2 /* ArtistryMa */,
 			);
 			productName = Artistry;
-			productReference = 552DF98A2A4C0E2F006151A2 /* Artistry.app */;
+			productReference = 29985D252A4C165C00CB3252 /* Artistry.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -332,6 +332,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				DEVELOPMENT_TEAM = L58QM5399L;
 				INFOPLIST_FILE = Artistry/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Bankino;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
@@ -351,6 +352,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				DEVELOPMENT_TEAM = L58QM5399L;
 				INFOPLIST_FILE = Artistry/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Bankino;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
